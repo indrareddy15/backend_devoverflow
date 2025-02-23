@@ -1,6 +1,6 @@
 # Dev Overflow
 
-This is a clone of Dev Overflow built using Node.js, Express, MongoDB, and Cloudinary.
+This is a Dev Overflow built using Node.js, Express, MongoDB, and Cloudinary.
 
 ## Features
 

@@ -1,0 +1,24 @@
+{
+  "name": "backend_devoverflow",
+  "version": "1.0.0",
+  "description": "This is a clone of Stack Overflow built using Node.js, Express, MongoDB, and Cloudinary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrareddy15/backend_devoverflow.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indrareddy15/backend_devoverflow/issues"
+  },
+  "homepage": "https://github.com/indrareddy15/backend_devoverflow#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

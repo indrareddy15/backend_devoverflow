@@ -1,6 +1,6 @@
-# Stack Overflow Clone
+# Dev Overflow
 
-This is a clone of Stack Overflow built using Node.js, Express, MongoDB, and Cloudinary.
+This is a clone of Dev Overflow built using Node.js, Express, MongoDB, and Cloudinary.
 
 ## Features
 
@@ -26,8 +26,8 @@ This is a clone of Stack Overflow built using Node.js, Express, MongoDB, and Clo
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stackoverflow-clone.git
-    cd stackoverflow-clone
+    git clone https://github.com/yourusername/backend_devoverflow
+    cd devoverflow-clone
     ```
 
 2. Install dependencies:
